@@ -1,11 +1,23 @@
 {
-  "body": {
-    "background": {
-      "type": "html",
-      "url": "https://www.google.com",
-      "action": {
-        "type": "$default"
-      }
+    "$jason": {
+        "head": {
+            "title": "Web Container Agent Demo",
+            "actions": {
+                "$load": {
+                    "type": "$agent.request",
+                    "options": {
+                        "id": "$webcontainer",
+                        "method": "add",
+                        "params": ["a", "b"]
+                    }
+                }
+            }
+        },
+        "body": {
+            "background": {
+                "type": "html",
+                "url": "file://app.html"
+            }
+        }
     }
-  }
 }
