@@ -17,11 +17,12 @@
             "background": {
                 "type": "html",
                 "url": "https://master.dvok3106j806d.amplifyapp.com",
-                "progress": "#ff0000",
                 "action": {
                     "type": "$default"
                 }
             }
+            
+                "progress": "#ff0000",
         }
     }
 }
