@@ -1,18 +1,10 @@
 {
-  "$jason": {
-    "head": {
-      "title": "Eastern Beauty",
-      "actions": {
-        "$foreground": {
-          "type": "$reload"
-        }
-      }
-    },
+  "body": {
     "background": {
       "type": "html",
-      "url": "",
+      "url": "https://www.google.com",
       "action": {
-        "trigger": "navigate"
+        "type": "$default"
       }
     }
   }
