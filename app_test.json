@@ -1,0 +1,19 @@
+{
+  "$jason": {
+    "head": {
+      "title": "Eastern Beauty",
+      "actions": {
+        "$foreground": {
+          "type": "$reload"
+        }
+      }
+    },
+    "background": {
+      "type": "html",
+      "url": "",
+      "action": {
+        "trigger": "navigate"
+      }
+    }
+  }
+}
