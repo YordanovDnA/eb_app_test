@@ -16,7 +16,10 @@
         "body": {
             "background": {
                 "type": "html",
-                "url": "https://master.dvok3106j806d.amplifyapp.com"
+                "url": "https://master.dvok3106j806d.amplifyapp.com",
+                "action": {
+        "type": "$default"
+      }
             }
         }
     }
