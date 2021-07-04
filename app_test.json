@@ -16,7 +16,7 @@
         "body": {
             "background": {
                 "type": "html",
-                "url": "http://localhost:3000"
+                "url": "https://master.dvok3106j806d.amplifyapp.com"
             }
         }
     }
