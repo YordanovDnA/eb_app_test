@@ -20,7 +20,7 @@
                 "action": {
                     "type": "$default"
                 }
-            }
+            },
             
                 "progress": "#ff0000",
         }
